@@ -1,0 +1,6 @@
+rabbitmq:
+  host: 192.168.122.251
+  port: 5672
+  virtual_host: '/'
+  user_name: guest
+  password: guest
